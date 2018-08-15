@@ -1,4 +1,4 @@
-# Xiaomi Mi Pad 4 : TWRP version 3.2.2-0711
+# Xiaomi Mi Pad 4 : Install TWRP version 3.2.2-0711
 
 #### Download this 2 files :
 
@@ -55,3 +55,7 @@ $ fastboot reboot
 Rebooting
 Finished. Total time: 0.000s
 ```
+
+#### Change language in TWRP to english
+
+Check this [video](https://www.youtube.com/watch?v=KOhR92EKD7A)
