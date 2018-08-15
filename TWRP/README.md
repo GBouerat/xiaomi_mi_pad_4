@@ -1,7 +1,9 @@
-# Xiaomi Mi Pad 4
+# Xiaomi Mi Pad 4 : TWRP version 3.2.2-0711
 
-# TWRP version 3.2.2-0711
+#### Download this 2 files :
 
+[recovery.img](https://github.com/GBouerat/xiaomi_mi_pad_4/releases/download/TWRP/recovery.img) and
+[misc.bin](https://github.com/GBouerat/xiaomi_mi_pad_4/releases/download/TWRP/misc.bin)
 
 #### Reboot your device to bootloader :
 
