@@ -21,7 +21,7 @@ XXXXXX	fastboot
 #### Check if bootloader is unlocked :
 
 ```
-$ fastboot oem device-infov
+$ fastboot oem device-info
 (bootloader) Verity mode: true
 (bootloader) Device unlocked: true
 (bootloader) Device critical unlocked: true
